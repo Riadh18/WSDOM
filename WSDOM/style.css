@@ -1,0 +1,41 @@
+
+body{
+  background-color:beige;
+  
+}
+.hear{
+  color: red;
+}
+h1{
+  color: brown;
+  font-family:Arial, Helvetica, sans-serif;
+  padding:16px;
+  ;
+  text-align:center;
+  display:block;
+  margin:16px;
+
+}
+h2{
+  color: rgb(121, 58, 22);
+  font-family:Arial, Helvetica, sans-serif;
+  padding: 19px;
+  margin-right: 172px;
+  
+
+}
+.hoodie{
+  text-align: end;
+
+}
+.short{
+  margin: -600px;
+  text-align: center;
+}
+
+.price{
+  margin-right: 205px;
+}
+.buttons{
+  justify-content: space-evenly;
+}
